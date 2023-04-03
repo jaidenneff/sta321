@@ -1,4 +1,4 @@
-,Date,Day,High Temp (°F),Low Temp (°F),Precipitation,Brooklyn Bridge,Manhattan Bridge,Williamsburg Bridge,Queensboro Bridge,Total
+,Date,Day,High Temp ,Low Temp ,Precipitation,Brooklyn Bridge,Manhattan Bridge,Williamsburg Bridge,Queensboro Bridge,Total
 0,2016-04-01 00:00:00,2016-04-01 00:00:00,78.1,66,0.01,1704.0,3126,4115.0,2552.0,11497
 1,2016-04-02 00:00:00,2016-04-02 00:00:00,55.0,48.9,0.15,827.0,1646,2565.0,1884.0,6922
 2,2016-04-03 00:00:00,2016-04-03 00:00:00,39.9,34,0.09,526.0,1232,1695.0,1306.0,4759
